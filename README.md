@@ -64,7 +64,7 @@ My favourite music genre is Chinese C-Pop/Mandopop, Japanese J-Pop, Anisong, Voc
 
 My favourite singer and band is HOYO-MiX, San-Z Studio, Poppin’Party, Miku Hatsune, Luo Tianyi, Silence Wang, Vae Xu, Wu Bai & China Blue, Cyndi Wang, Pu Shu, Zhou Shen, Mao Buyi, Shanghai Rainbow Chamber Singers (SRCS), Galaxy Express, Money, YOASOBI, Yorushika, ZUTOMAYO, Mrs. GREEN APPLE, Aimyon, Kenshi Yonezu, Gen Hoshino, Hikaru Utada, Aimer, Ado, LiSA, Vaundy, Mika Nakashima.
 
-好きな歌手とバンドは、HOYO-MiX、San-Z スタジオ、Poppin’Party、初音ミク、洛天依、汪蘇瀧（サイレンス・ワン）、王心凌（シンディー・ワン）、朴樹、周深、毛不易、上海彩虹室内合唱団、銀河快逓（ギャラクシー・エクスプレス）、門尼（モンニー）、YOASOBI、ヨルシカ、ずっと真夜中でいいのに。、Mrs. GREEN APPLE、あいみょん、星野源、宇多田ヒカル、Aimer、Ado、LiSA、Vaundy、中島美嘉である。
+好きな歌手とバンドは、HOYO-MiX、San-Z スタジオ、Poppin’Party、初音ミク、洛天依、汪蘇瀧（サイレンス・ワン）、許嵩（ヴェイ・シュー）、ウーバイ & China Blue、王心凌（シンディー・ワン）、朴樹、周深、毛不易、上海彩虹室内合唱団、銀河快逓（ギャラクシー・エクスプレス）、門尼（モンニー）、YOASOBI、ヨルシカ、ずっと真夜中でいいのに。、Mrs. GREEN APPLE、あいみょん、星野源、宇多田ヒカル、Aimer、Ado、LiSA、Vaundy、中島美嘉である。
 
 大家我都喜欢哦！
 
