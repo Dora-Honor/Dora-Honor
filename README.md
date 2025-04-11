@@ -28,7 +28,7 @@
 
 　
 
-English｜英文｜英語
+English｜英语｜英語
 
 Hello everyone! I’m Dora Honor and another name is mskk.
 
