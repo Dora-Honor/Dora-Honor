@@ -1,4 +1,4 @@
-# 个人博客 Personal Blog
+# 个人博客 | Personal Blog | 個人のブログ
 - https://dora-honor.github.com/mskk-blog
 
 # SNS
