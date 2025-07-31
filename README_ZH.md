@@ -1,4 +1,4 @@
-[English](README.md) | 中文 | [日本語](README_JP.md)
+[English](README.md) | 中文 | [日本語](README_JA.md)
 
 # 个人博客
 - https://dora-honor.github.io/
