@@ -1,9 +1,14 @@
+<div align="right">
+
 [English](README.md) | 中文 | [日本語](README_JA.md)
+
+</div>
 
 # 个人博客
 - https://dora-honor.github.io/
 
-# SNS
+<details>
+<summary><strong>SNS</strong></summary>
 
 * 哔哩哔哩: https://space.bilibili.com/68026760
 * YouTube: https://youtube.com/@dorahonor_mskk
@@ -18,6 +23,8 @@
 * HoYoLAB: https://www.hoyolab.com/accountCenter?id=300847631
 * Spotify: https://open.spotify.com/user/31tnk5f4als6u4r7kcg2mj2dqq4a?si=965ed51d110f42eb&nd=1&dlsi=ad0481066f9d4d68
 * 网易云音乐: https://music.163.com/#/user/home?id=436313178
+
+</details>
 
 # 自我介绍
 
