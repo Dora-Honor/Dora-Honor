@@ -26,6 +26,8 @@
 
 </details>
 
+---
+
 # 自我介绍
 
 大家好！我是 Dora Honor，别名 mskk。
