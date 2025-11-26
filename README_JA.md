@@ -6,7 +6,7 @@
 
 # 個人のブログ
 - https://dora-honor.github.io/
-- ~~https://mskk-blog.netlify.app/~~
+- https://dhmskk.netlify.app/
 
 <details>
 <summary><strong>SNS</strong></summary>

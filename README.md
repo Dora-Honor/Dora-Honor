@@ -6,7 +6,7 @@ English | [中文](README_ZH.md) | [日本語](README_JA.md)
 
 # Personal Blog
 - https://dora-honor.github.io/
-- ~~https://mskk-blog.netlify.app/~~
+- https://dhmskk.netlify.app/
 
 <details>
 <summary><strong>SNS</strong></summary>
