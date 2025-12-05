@@ -4,7 +4,7 @@
 
 </div>
 
-# 個人のブログ
+# 個人のブログ（中国語）
 - https://dora-honor.github.io/
 - https://dhmskk.netlify.app/
 - docsify
@@ -12,6 +12,9 @@
 - VuePress-Theme-Hope
   - https://dora-honor.github.io/mskk-vpth-blog/
   - https://dora-honor.github.io/mskk-vpth-docs/
+
+# 自分のプロジェクト
+- [leadership-kcgi](https://dora-honor.github.io/leadership-kcgi)
 
 <details>
 <summary><strong>SNS</strong></summary>

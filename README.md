@@ -4,7 +4,7 @@ English | [中文](README_ZH.md) | [日本語](README_JA.md)
 
 </div>
 
-# Personal Blog
+# Personal Blog (Chinese)
 - https://dora-honor.github.io/
 - https://dhmskk.netlify.app/
 - docsify
@@ -12,6 +12,9 @@ English | [中文](README_ZH.md) | [日本語](README_JA.md)
 - VuePress-Theme-Hope
   - https://dora-honor.github.io/mskk-vpth-blog/
   - https://dora-honor.github.io/mskk-vpth-docs/
+
+# My Projects
+- [leadership-kcgi](https://dora-honor.github.io/leadership-kcgi) (Japanese)
 
 <details>
 <summary><strong>SNS</strong></summary>

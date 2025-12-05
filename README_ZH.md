@@ -13,6 +13,9 @@
   - https://dora-honor.github.io/mskk-vpth-blog/
   - https://dora-honor.github.io/mskk-vpth-docs/
 
+# 我的项目
+- [leadership-kcgi](https://dora-honor.github.io/leadership-kcgi) (日语)
+
 <details>
 <summary><strong>SNS</strong></summary>
 
