@@ -5,7 +5,7 @@
 </div>
 
 # 個人のブログ（中国語）
-- https://dora-honor.github.io/
+- https://dorahonor.me
 - https://dhmskk.netlify.app/
 - docsify
   - https://dora-honor.github.io/mskk-blog/
