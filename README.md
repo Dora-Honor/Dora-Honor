@@ -7,13 +7,15 @@ English | [中文](README_ZH.md) | [日本語](README_JA.md)
 # Personal Blog (Chinese)
 - https://dorahonor.me
 - docsify
-  - https://dora-honor.github.io/mskk-blog/
+  - https://docsify.dorahonor.me
 - VuePress-Theme-Hope
-  - https://dora-honor.github.io/mskk-vpth-blog/
-  - https://dora-honor.github.io/mskk-vpth-docs/
+  - https://vpthblog.dorahonor.me
+  - https://vpthdocs.dorahonor.me
+- Hexo-Theme-NexT
+  - https://hexonext.dorahonor.me
 
 # My Projects
-- [leadership-kcgi](https://dora-honor.github.io/leadership-kcgi) (Japanese)
+- [leadership-kcgi](https://leadership.dorahonor.me) (Japanese)
 
 <details>
 <summary><strong>SNS</strong></summary>

@@ -6,15 +6,16 @@
 
 # 个人博客
 - https://dorahonor.me
-- https://dhmskk.netlify.app/
 - docsify
-  - https://dora-honor.github.io/mskk-blog/
+  - https://docsify.dorahonor.me
 - VuePress-Theme-Hope
-  - https://dora-honor.github.io/mskk-vpth-blog/
-  - https://dora-honor.github.io/mskk-vpth-docs/
+  - https://vpthblog.dorahonor.me
+  - https://vpthdocs.dorahonor.me
+- Hexo-Theme-NexT
+  - https://hexonext.dorahonor.me
 
 # 我的项目
-- [leadership-kcgi](https://dora-honor.github.io/leadership-kcgi) (日语)
+- [leadership-kcgi](https://leadership.dorahonor.me) (日语)
 
 <details>
 <summary><strong>SNS</strong></summary>
