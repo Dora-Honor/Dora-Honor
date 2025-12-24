@@ -13,6 +13,8 @@ English | [中文](README_ZH.md) | [日本語](README_JA.md)
   - https://vpthdocs.dorahonor.me
 - Hexo-Theme-NexT
   - https://hexonext.dorahonor.me
+- Hugo Stack
+  - https://hugo.dorahonor.me
 
 # My Projects
 - [leadership-kcgi](https://leadership.dorahonor.me) (Japanese)

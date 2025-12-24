@@ -13,6 +13,8 @@
   - https://vpthdocs.dorahonor.me
 - Hexo-Theme-NexT
   - https://hexonext.dorahonor.me
+- Hugo Stack
+  - https://hugo.dorahonor.me
 
 # 自分のプロジェクト
 - [leadership-kcgi](https://leadership.dorahonor.me)
