@@ -15,6 +15,8 @@
   - https://hexonext.dorahonor.me
 - Hugo Stack
   - https://hugo.dorahonor.me
+- Hugo Blowfish
+  - https://hugo2.dorahonor.me
 
 # 自分のプロジェクト
 - [leadership-kcgi](https://leadership.dorahonor.me)
