@@ -5,7 +5,7 @@
 </div>
 
 # 個人のブログ（中国語）
-- https://dorahonor.me
+- https://blog.dorahonor.me
 - docsify
   - https://docsify.dorahonor.me
 - VuePress-Theme-Hope
