@@ -57,7 +57,7 @@
 | 内存   | 金士顿 DDR3 1333 2 GB                               |
 | 硬盘   | 西数 WD2500AAKX 250 GB                              |
 | 光驱   | 可选 DVD-ROM/DVD-RW                                 |
-| 显卡   | ATI Radeon HD3450                                   |
+| 显卡   | ATI Radeon HD 3450                                  |
 | 显示器 | 联想 L2250pwD 1680×1050                             |
 | 电源   | 350W                                                |
 | 机箱   | 金河田                                              |
