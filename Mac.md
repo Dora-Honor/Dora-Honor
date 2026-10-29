@@ -10,7 +10,7 @@
 | CPU      | Intel Core 2 Duo P8700 | Intel Core 2 Duo P8800 | Intel Core i5-2520M | Intel Core i5-3210M | Intel Core i5-4308U | Intel Core i5-8500B |
 | 内存     | 2 GB DDR3 1066 | 4 GB DDR3 1066 | 8 GB DDR3 1333 | 8 GB DDR3 1600 | 8 GB DDR3 1600 | 16 GB DDR4 2666 |
 | 显卡     | NVIDIA GeForce 9400M 256 MB | NVIDIA GeForce 320M 256 MB | AMD Radeon HD 6630M 256 MB | Intel HD Graphice 4000 | Intel Iris Graphics 5100 | Intel UHD Graphics 630 |
-| 存储     |  |  |  |  |  |  |
+| 存储     | 320 GB HDD, SuperDrive | 320 GB HDD, SuperDrive | 128 GB SSD ×2 | 128 GB SSD ×2 | 256 GB SSD, 2 TB HDD | 512 GB SSD |
 | macOS    |  |  |  |  |  |  |
 | Windows  |  |  |  |  |  |  |
 
