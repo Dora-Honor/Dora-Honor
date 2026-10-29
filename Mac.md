@@ -9,7 +9,7 @@
 | 型号编号 | A1283 | A1347 | A1347 | A1347 | A1347 | A1993 |
 | CPU      | Intel Core 2 Duo P8700 | Intel Core 2 Duo P8800 | Intel Core i5-2520M | Intel Core i5-3210M | Intel Core i5-4308U | Intel Core i5-8500B |
 | 内存     | 2 GB DDR3 1066 | 4 GB DDR3 1066 | 8 GB DDR3 1333 | 8 GB DDR3 1600 | 8 GB DDR3 1600 | 16 GB DDR4 2666 |
-| 显卡     |  |  |  |  |  |  |
+| 显卡     | NVIDIA GeForce 9400M 256 MB |  |  |  |  |  |
 | 存储     |  |  |  |  |  |  |
 | macOS    |  |  |  |  |  |  |
 | Windows  |  |  |  |  |  |  |
