@@ -11,7 +11,7 @@
 | 内存     | 2 GB DDR3 1066 | 4 GB DDR3 1066 | 8 GB DDR3 1333 | 8 GB DDR3 1600 | 8 GB DDR3 1600 | 16 GB DDR4 2666 |
 | 显卡     | NVIDIA GeForce 9400M 256 MB | NVIDIA GeForce 320M 256 MB | AMD Radeon HD 6630M 256 MB | Intel HD Graphice 4000 | Intel Iris Graphics 5100 | Intel UHD Graphics 630 |
 | 存储     | 320 GB HDD, SuperDrive | 320 GB HDD, SuperDrive | 128 GB SSD ×2 | 128 GB SSD ×2 | 256 GB SSD, 2 TB HDD | 512 GB SSD |
-| macOS    |  |  |  |  |  |  |
+| macOS    | OS X El Capitan 10.11.6 (15G22010) | macOS High Sierra 10.13.6 (17G14042) | macOS High Sierra 10.13.6 (17G14042) | macOS Catalina 10.15.8 (19H2036) | macOS Monterey 12.7.6 (21H1320) | macOS Sequoia 15 |
 | Windows  |  |  |  |  |  |  |
 
 ## iMac
