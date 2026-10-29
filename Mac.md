@@ -12,7 +12,7 @@
 | 显卡     | NVIDIA GeForce 9400M 256 MB | NVIDIA GeForce 320M 256 MB | AMD Radeon HD 6630M 256 MB | Intel HD Graphice 4000 | Intel Iris Graphics 5100 | Intel UHD Graphics 630 |
 | 存储     | 320 GB HDD, SuperDrive | 320 GB HDD, SuperDrive | 128 GB SSD ×2 | 128 GB SSD ×2 | 256 GB SSD, 2 TB HDD | 512 GB SSD |
 | macOS    | OS X El Capitan 10.11.6 (15G22010) | macOS High Sierra 10.13.6 (17G14042) | macOS High Sierra 10.13.6 (17G14042) | macOS Catalina 10.15.8 (19H2036) | macOS Monterey 12.7.6 (21H1320) | macOS Sequoia 15 |
-| Windows  |  |  |  |  |  |  |
+| Windows  | Windows XP Media Center Edition 2005, Service Pack 3 | Windows Vista Ultimate, Service Pack 2 | Windows 7 旗舰版 SP1 64 位 | Windows 8.1 专业版（含 Media Center）64 位 | Windows 10 IoT 企业版 LTSC 2021 64 位 | Windows 10 IoT 企业版 LTSC 2021 64 位 |
 
 ## iMac
 
