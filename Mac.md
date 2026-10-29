@@ -31,18 +31,18 @@
 
 ## MacBook
 
-| 系列     |
-| -------- |
-| 订单编号 |
-| 型号标识 |
-| 型号编号 |
-| CPU      |
-| 内存     |
-| 显卡     |
-| 显示器   |
-| 存储     |
-| macOS    |
-| Windows  |
+| 系列     | Mid 2009                                             |
+| -------- | ---------------------------------------------------- |
+| 订单编号 | MC240                                                |
+| 型号标识 | MacBook5,2                                           |
+| 型号编号 | A1181                                                |
+| CPU      | Intel Core 2 Duo P7450                               |
+| 内存     | 2 GB DDR2 800                                        |
+| 显卡     | NVIDIA GeForce 9400M 256 MB                          |
+| 显示器   | 13.3 英寸 1,280 × 800                                |
+| 存储     | 160 GB HDD                                           |
+| macOS    | OS X El Capitan 10.11.6 (15G22010)                   |
+| Windows  | Windows XP Media Center Edition 2005, Service Pack 3 |
 
 ## MacBook Air
 
