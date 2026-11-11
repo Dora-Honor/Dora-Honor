@@ -1,5 +1,7 @@
 # Microsoft Store AppID
 
+## Microsoft
+
 | Name                    | AppID            |
 | ----------------------- | ---------------- |
 | Microsoft Store         | `9WZDNCRFJBMP`   |
