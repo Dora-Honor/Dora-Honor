@@ -18,7 +18,7 @@
 | Microsoft Photos Legacy | `9NV2L4XVMCXM`   |
 | Microsoft Teams         | `XP8BT8DW290MPQ` |
 
-3rd Party
+## 3rd Party
 
 | Name          | AppID          |
 | ------------- | -------------- |
