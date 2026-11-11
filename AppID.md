@@ -12,6 +12,7 @@
 | Windows Media Player    | `9WZDNCRFJ3PT`   |
 | Windows Clock           | `9WZDNCRFJ3PR`   |
 | Windows Camera          | `9WZDNCRFJBBG`   |
+| Windows Recorder        | `9WZDNCRFHWKN`   |
 | Microsoft Photos Legacy | `9NV2L4XVMCXM`   |
 | Microsoft Teams         | `XP8BT8DW290MPQ` |
 
