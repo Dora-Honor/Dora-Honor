@@ -14,3 +14,11 @@
 | Windows Camera          | `9WZDNCRFJBBG`   |
 | Microsoft Photos Legacy | `9NV2L4XVMCXM`   |
 | Microsoft Teams         | `XP8BT8DW290MPQ` |
+
+3rd Party
+
+| Name          | AppID          |
+| ------------- | -------------- |
+| Apple Music   | `9PFHDD62MXS1` |
+| Apple TV      | `9NM4T8B9JQZ1` |
+| Apple Devices | `9NP83LWLPZ9K` |
